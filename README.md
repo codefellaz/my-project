@@ -1,9 +1,7 @@
 #
-#
 # Gerardo J. Orellana // React Project
 # Portfolio update: https://github.com/
 # Getting Started with Create React App
-#
 #
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
