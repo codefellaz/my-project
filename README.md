@@ -1,7 +1,6 @@
 #
 # Gerardo J. Orellana // React Project
 # Portfolio update: https://github.com/
-#
 # Getting Started with Create React App
 #
 
